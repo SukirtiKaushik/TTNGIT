@@ -1,0 +1,34 @@
+create new folder
+open that folder
+right click and choose get git bash
+in the command prompt 
+type git init
+then a empty repository will be formed then
+ls -al
+all files and folder will be displayed
+then cd .git
+ls -al
+
+
+for clone 
+
+open git account
+
+go to cat symbol
+then create new repository
+public and check the initialize block then create
+after repository been created click on clone and download button 
+a link will be displayed copy that link
+
+come to cmd prompt then
+cd  ..
+ 
+git clone paste the url by right clicking
+enter
+
+go to new folder you created and see the hidden folders
+you will be able to see .git file
+
+now check
+ls -al
+
